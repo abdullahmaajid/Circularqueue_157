@@ -39,7 +39,10 @@ public:
 	}
 
 	void remove() {
+		// cek apakah ada antrian kosong
+		if (FRONT == -1) {
 
+		}
 	}
 
 
